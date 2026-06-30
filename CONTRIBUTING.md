@@ -23,7 +23,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 ### 🐛 Reporting Bugs
 
-Before creating bug reports, please check the [existing issues](https://github.com/satya00089/portfolio/issues) to avoid duplicates.
+Before creating bug reports, please check the [existing issues](https://github.com/jidanganteng/portfolio/issues) to avoid duplicates.
 
 When you create a bug report, include as many details as possible:
 
@@ -63,7 +63,7 @@ If applicable, add screenshots.
 
 ### 💡 Suggesting Enhancements
 
-Enhancement suggestions are tracked as [GitHub issues](https://github.com/satya00089/portfolio/issues).
+Enhancement suggestions are tracked as [GitHub issues](https://github.com/jidanganteng/portfolio/issues).
 
 When suggesting an enhancement:
 
@@ -125,7 +125,7 @@ cd portfolio
 3. **Add upstream remote:**
 
 ```bash
-git remote add upstream https://github.com/satya00089/portfolio.git
+git remote add upstream https://github.com/jidanganteng/portfolio.git
 ```
 
 4. **Install dependencies:**
@@ -416,8 +416,8 @@ git commit -m "refactor(portfolio): extract project modal logic"
 ### Getting Help
 
 - 📖 Read the [README](README.md) and [Wiki](WIKI.md)
-- 🔍 Search [existing issues](https://github.com/satya00089/portfolio/issues)
-- 💬 Ask questions in [Discussions](https://github.com/satya00089/portfolio/discussions)
+- 🔍 Search [existing issues](https://github.com/jidanganteng/portfolio/issues)
+- 💬 Ask questions in [Discussions](https://github.com/jidanganteng/portfolio/discussions)
 - 📧 Email: [satyasubudhi089@gmail.com](mailto:satyasubudhi089@gmail.com)
 
 ### Recognition

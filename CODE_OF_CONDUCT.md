@@ -139,8 +139,8 @@ For answers to common questions about this code of conduct, see the FAQ at
 If you have questions about this Code of Conduct or need to report an incident,
 please contact:
 
-**Satya Subudhi**  
-📧 Email: satyasubudhi089@gmail.com  
-🐙 GitHub: [@satya00089](https://github.com/satya00089)
+**ahmad zaidan basir**  
+📧 Email: jidanbasir222@gmail.com  
+🐙 GitHub: [@satya00089](https://github.com/jidanganteng)
 
 We are committed to providing a welcoming and inspiring community for all.

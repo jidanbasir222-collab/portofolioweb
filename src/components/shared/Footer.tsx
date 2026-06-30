@@ -8,7 +8,7 @@ export const Footer: React.FC = () => {
         {/* Left: message */}
         <div>
           Designed &amp; coded with ☕ + ❤️ by{" "}
-          <span className="font-medium text-[var(--text)]">satya</span>
+          <span className="font-medium text-[var(--text)]">zaidan</span>
         </div>
 
         {/* Right: social icons */}
@@ -23,7 +23,7 @@ export const Footer: React.FC = () => {
             <SiKaggle size={40} />
           </a>
           <a
-            href="https://github.com/satya00089"
+            href="https://github.com/jidanganteng"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"

@@ -8,14 +8,14 @@ export const PORTFOLIO_INFO: Portfolio = {
     pdf: "/resume.pdf",
   },
   personal: {
-    name: "Satya Subudhi",
+    name: "ahmad zaidan basir",
     title: "Senior Engineer — Full Stack (Python & React)",
     headline: "React · Python · FastAPI · IaC · Cloud",
     // avatar can be a string, an object with { url, label }, or an array of those.
     avatar: [
       // use public root path so Vite serves the static asset from /public/profile.jpg
-      { url: "./profile.jpg", label: "" },
-      { url: "./profile1.jpg", label: "" },
+      { url: "./jidan.jpeg", label: "" },
+      { url: "./jidan1.jpeg", label: "" },
     ],
     summary:
       "Senior Engineer with 7+ years of experience delivering enterprise-grade applications. Over the last 3 years I have focused on building production systems using Python (FastAPI) and React — designing APIs, building responsive frontends, and automating deployments with IaC. Experienced across AWS & Azure and comfortable owning full delivery from design to production.",
@@ -37,7 +37,7 @@ export const PORTFOLIO_INFO: Portfolio = {
         },
         {
           label: "GitHub",
-          url: "https://github.com/satya00089",
+          url: "https://github.com/jidanganteng",
           icon: "SiGithub",
         },
         {
@@ -424,12 +424,12 @@ export const PORTFOLIO_INFO: Portfolio = {
         "Interactive visualizations that transform abstract concepts into intuitive understanding. Watch sorting, searching, and ML algorithms execute step-by-step.",
       tags: ["Algorithms", "DSA", "ML", "AI", "Visualization", "Next.js"],
       image:
-        "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpqYWFhbnBraWt3ZXhvajZsdjg5andyMGZzY2VibGg3bXE0MWxwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PuPWxuLV1FGyh03Ja/giphy.gif",
+        "web.png",
       href: "https://www.learn-algo.com",
       links: [
         {
           label: "GitHub",
-          url: "https://github.com/satya00089/learn-algo",
+          url: "https://github.com/jidanganteng/learn-algo",
           icon: "SiGithub",
         },
       ],
@@ -451,12 +451,12 @@ export const PORTFOLIO_INFO: Portfolio = {
         "Full Stack",
       ],
       image:
-        "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtuYjY1emtsZmNjMXp1czdrdXR5bXE5ZDJheHVvZjY1azZxYnJieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzImRjQVb2OUI84mTt/giphy.gif",
+        "mobile.jpeg",
       href: "https://orchestrator.next-zen.dev",
       links: [
         {
           label: "GitHub",
-          url: "https://github.com/satya00089/landing-zone-orchestrator-ui",
+          url: "https://github.com/jidanganteng/landing-zone-orchestrator-ui",
           icon: "SiGithub",
         },
       ],
@@ -474,7 +474,7 @@ export const PORTFOLIO_INFO: Portfolio = {
       links: [
         {
           label: "GitHub",
-          url: "https://github.com/satya00089/diagrammatic",
+          url: "https://github.com/jidanganteng/diagrammatic",
           icon: "SiGithub",
         },
       ],
@@ -491,7 +491,7 @@ export const PORTFOLIO_INFO: Portfolio = {
       links: [
         {
           label: "GitHub",
-          url: "https://github.com/satya00089/tic-tac-toe",
+          url: "https://github.com/jidanganteng/tic-tac-toe",
           icon: "SiGithub",
         },
       ],
@@ -519,7 +519,7 @@ export const PORTFOLIO_INFO: Portfolio = {
         },
         {
           label: "GitHub",
-          url: "https://github.com/satya00089/mui-color-wheel",
+          url: "https://github.com/jidanganteng/mui-color-wheel",
           icon: "SiGithub",
         },
       ],
@@ -541,7 +541,7 @@ export const PORTFOLIO_INFO: Portfolio = {
         },
         {
           label: "GitHub",
-          url: "https://github.com/satya00089/alochona",
+          url: "https://github.com/jidanganteng/alochona",
           icon: "SiGithub",
         },
       ],
@@ -564,7 +564,7 @@ export const PORTFOLIO_INFO: Portfolio = {
         },
         {
           label: "GitHub",
-          url: "https://github.com/satya00089/night-sky",
+          url: "https://github.com/jidanganteng/night-sky",
           icon: "SiGithub",
         },
       ],
