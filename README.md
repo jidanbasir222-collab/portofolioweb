@@ -43,7 +43,7 @@ This repository is intended to be a ready-to-customize portfolio template. There
 ### Option B — Clone directly
 
 ```bash
-git clone https://github.com/satya00089/portfolio.git my-portfolio
+git clone https://github.com/jidanganteng/portfolio.git my-portfolio
 cd my-portfolio
 npm install
 npm run dev
@@ -63,9 +63,9 @@ All site content (projects, skills, education, experience, and basic profile inf
 
 ## ☁️ One-click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/satya00089/portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jidanganteng/portfolio)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/satya00089/portfolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jidanganteng/portfolio)
 
 ## 🛠️ Tech Stack
 
@@ -119,7 +119,7 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/satya00089/portfolio.git
+git clone https://github.com/jidanganteng/portfolio.git
 cd portfolio
 ```
 
@@ -183,14 +183,14 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Satya Subudhi**
+**ahmad zaidan basir**
 
-- GitHub: [@satya00089](https://github.com/satya00089)
-- Email: satyasubudhi089@gmail.com
+- GitHub: [@satya00089](https://github.com/jidanganteng)
+- Email: jidanbasir222@gmail.com@gmail.com
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/satya00089/portfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/jidanganteng/portfolio/issues).
 
 ---
 
