@@ -3,8 +3,6 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { tagColors } from "../config/portfolioData";
 import type { Project } from "../types/portfolio";
-import * as SiIcons from "react-icons/si";
-import * as FaIcons from "react-icons/fa";
 import { BsArrowUpRightCircleFill } from "react-icons/bs";
 import { CardContainer } from "./CardContainer";
 
